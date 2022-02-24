@@ -23,4 +23,4 @@ A webdeveloper learning Java and few more things!
 
 ## Stats
 **Note: Contributions to organizations are not counted** <br />
-![xAyman's github stats](https://github-readme-stats.vercel.app/api?username=bluexayman&show_icons=true&theme=?)
+![xAyman's github stats](https://github-readme-stats.vercel.app/api?username=bluexayman&show_icons=true&theme=cobalt)
